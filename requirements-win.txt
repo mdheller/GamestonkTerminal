@@ -1,11 +1,11 @@
 absl-py==0.11.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.2.0"
-aiohttp==3.7.4; python_version >= "3.6"
+aiohttp==3.9.4; python_version >= "3.6"
 alpha-vantage==2.3.1
 astunparse==1.6.3
 async-timeout==3.0.1; python_full_version >= "3.5.3" and python_version >= "3.6"
 attrs==20.3.0; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.6"
 beautifulsoup4==4.9.3
-black==20.8b1; python_version >= "3.6"
+black==24.3.0; python_version >= "3.6"
 bpemb==0.3.2; python_version >= "3.6"
 bs4==0.0.1
 cachetools==4.2.1; python_version >= "3.5" and python_version < "4.0" and (python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.6.0")
@@ -74,7 +74,7 @@ pandas-ta==0.2.45b
 pandas==1.2.3; python_full_version >= "3.6.1"
 papermill==2.3.2; python_version >= "3.6"
 patsy==0.5.1; python_version >= "3.6"
-pillow==8.1.1; python_version >= "3.6"
+pillow==10.3.0; python_version >= "3.6"
 plotly==4.14.3
 pmdarima==1.8.0; python_version >= "3.6"
 praw==7.2.0; python_version >= "3.6" and python_version < "4.0"
@@ -100,7 +100,7 @@ requests==2.25.1; (python_version >= "2.7" and python_full_version < "3.0.0") or
 retrying==1.3.3
 rsa==4.7.2; python_version >= "3.5" and python_version < "4" and (python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version >= "3.6")
 sacremoses==0.0.43; python_full_version >= "3.6.0" and python_version >= "3.6"
-scikit-learn==0.24.1; python_version >= "3.6"
+scikit-learn==1.5.0; python_version >= "3.6"
 scipy==1.6.1; python_version >= "3.6"
 segtok==1.5.10; python_version >= "3.6"
 sentencepiece==0.1.91; python_full_version >= "3.6.0" and python_version >= "3.6"
@@ -120,7 +120,7 @@ threadpoolctl==2.1.0; python_version >= "3.6"
 timeseriescrossvalidation @ git+https://github.com/DidierRLopes/TimeSeriesCrossValidation.git@master
 tokenizers==0.9.3; python_full_version >= "3.6.0" and python_version >= "3.6"
 torch==1.7.1; python_full_version >= "3.6.2" and python_version >= "3.6"
-tqdm==4.58.0; python_full_version >= "3.6.0" and python_version >= "3.6"
+tqdm==4.66.3; python_full_version >= "3.6.0" and python_version >= "3.6"
 transformers==3.5.1; python_full_version >= "3.6.0" and python_version >= "3.6"
 typing-extensions==3.7.4.3; python_full_version >= "3.6.2" and python_version >= "3.6" and python_version < "3.8" and (python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "3.8" or python_full_version >= "3.2.0" and python_version >= "3.6" and python_version < "3.8")
 update-checker==0.18.0; python_version >= "3.6" and python_version < "4.0"
